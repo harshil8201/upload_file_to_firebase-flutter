@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132203889628",
+    "project_id": "file-upload-dc4ce",
+    "storage_bucket": "file-upload-dc4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132203889628:android:649eb6de0cfff58f8c0519",
+        "android_client_info": {
+          "package_name": "com.unionsoftwareit.file_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132203889628-k787edvsv3l0u2v69ub6sd2hd7e0d3pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFEihz74Aw9L5YDnys3dsgXd2R8RLOls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132203889628-k787edvsv3l0u2v69ub6sd2hd7e0d3pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
